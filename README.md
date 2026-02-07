@@ -3,8 +3,11 @@
 ### Full-Stack Software Developer | Backend-Oriented
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mr-mpange&theme=onedark&row=1&column=6" alt="Mr-mpange" />
+  <a href="https://github.com/Mr-mpange">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Mr-mpange&theme=onedark&row=1&column=6&margin-w=10" 
+      alt="Mr-mpange trophies"
+    />
   </a>
 </p>
 
@@ -13,10 +16,10 @@
 ## 🧠 About Me
 
 - 🌍 Based in Tanzania  
-- 💻 Passionate about **backend systems, web applications, and system design**
-- 🌱 Currently learning **Laravel, React, Node.js, and AI fundamentals**
-- 🛠 Strong foundation in **C, Python, JavaScript, and PHP**
-- 🎯 Focused on building **secure, scalable, real-world applications**
+- 💻 Passionate about backend systems and full-stack development  
+- 🌱 Currently learning **Laravel, React, Node.js, and AI fundamentals**  
+- 🛠 Strong foundation in **C, Python, JavaScript, PHP**  
+- 🎯 Focused on building secure and scalable applications  
 
 ---
 
@@ -24,10 +27,10 @@
 
 <p align="left">
   <a href="https://github.com/Mr-mpange" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/said-kilindo-a56b532bb" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
 
@@ -59,8 +62,14 @@ Git · Linux · Docker (Beginner) · Postman · Jupyter
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-mpange&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-mpange&layout=compact&theme=tokyonight" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mr-mpange&show_icons=true&theme=tokyonight" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-mpange&layout=compact&theme=tokyonight" 
+    height="170"
+  />
 </p>
 
 ---
